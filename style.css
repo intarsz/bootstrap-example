@@ -1,0 +1,20 @@
+.fa-html5 {
+  color: #BF360C;
+}
+.fa-css3 {
+  color: #558B2F;
+}
+.fa-code {
+  color: #0277BD;
+}
+
+.jumbotron {
+  background-image: url(https://images.unsplash.com/photo-1444648034799-72283afa1ef0?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=41c058b769de2a0c7b5781ebe1314e0e);
+  background-size: cover;
+  height: 100vh;
+}
+
+.tiekamies {
+  background-color: #CFD8DC;
+}
+
